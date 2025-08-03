@@ -1,6 +1,6 @@
-# Hi there 👋
+### Hi there 👋
 
-## **Check out what I'm currently working on**
+#### **Check out what I'm currently working on**
 
 [nijamitsu/maprat](https://github.com/nijamitsu/maprat) - Interactive site visualizing travel history and visa requirements.<br>
 [nijamitsu/cat-face-app](https://github.com/nijamitsu/maprat) - AI-powered web app for identifying cat breeds from photos.<br>
